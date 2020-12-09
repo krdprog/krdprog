@@ -6,3 +6,8 @@
 ### Стек технологий
 
 Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
+
+### Контакты
+
+- Email: info@krdprog.ru
+- Telegram: [@krdprog](https://t.me/krdprog)
