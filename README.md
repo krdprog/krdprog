@@ -5,11 +5,4 @@
 
 ### Стек технологий
 
-- Ruby
-- Ruby on Rails
-- SQL
-- PostgeSQL
-- Minitest
-- GIT
-- HTML/CSS
-- Docker
+Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
