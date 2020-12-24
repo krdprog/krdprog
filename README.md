@@ -17,6 +17,6 @@ Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
 
 - https://github.com/krdprog/rubyschool-notes - конспект лекций курса RubySchool.us
 - https://rubygems.org/gems/yandex_xml - ruby gem сбора позиций сайта: yandex_xml
-- https://github.com/morsbox/rusrails - вклад в перевод на русский язык официальной документации Ruby on Rails (для сайта rusrails.ru)
+- https://github.com/morsbox/rusrails - вклад в перевод официальной документации Ruby on Rails для сайта rusrails.ru
 - http://rubyblog.ru/ - технический блог про Ruby, Ruby on Rails
 - http://rubykrd.ru и телеграм-группа https://t.me/rubykrd (~160 чел.) - сообщество руби-программистов
