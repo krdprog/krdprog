@@ -6,7 +6,9 @@
 
 ## Стек технологий
 
-Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
+Для работы: Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
+
+Для фана, для себя: С/C++, IoT, интернет вещей
 
 ## Контакты
 
