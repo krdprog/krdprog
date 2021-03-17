@@ -6,9 +6,9 @@
 
 ## Стек технологий
 
-Для работы: Ruby / Ruby on Rails / SQL / PostgeSQL / Minitest / GIT / HTML / CSS / Docker
+Для работы: Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker
 
-Для фана, для себя: С/C++, IoT, интернет вещей
+Для фана, для себя: С/C++, IoT (интернет вещей)
 
 ## Контакты
 
@@ -21,4 +21,4 @@
 - https://rubygems.org/gems/yandex_xml - ruby gem сбора позиций сайта: yandex_xml
 - https://github.com/morsbox/rusrails - вклад в перевод официальной документации Ruby on Rails для сайта rusrails.ru
 - http://rubyblog.ru/ - технический блог про Ruby, Ruby on Rails
-- http://rubykrd.ru и телеграм-группа https://t.me/rubykrd (~160 чел.) - сообщество руби-программистов
+- http://rubykrd.ru и телеграм-группа https://t.me/rubykrd (~200 чел.) - сообщество руби-программистов
