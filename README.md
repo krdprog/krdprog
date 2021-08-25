@@ -8,8 +8,6 @@
 
 **Для работы:** Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker
 
-**Для фана, для себя:** С/C++, IoT (интернет вещей)
-
 ## Контакты
 
 - Email: info@krdprog.ru
