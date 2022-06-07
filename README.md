@@ -16,7 +16,7 @@
 ## Вклад в Опенсорс:
 
 - https://github.com/krdprog/rubyschool-notes - конспект лекций курса RubySchool.us
-- http://rubydeploy.ru/ - Как деплоить рельсы (Ruby on Rails). Коллекция инструкций
+- https://rubydeploy.ru/ - Как деплоить рельсы (Ruby on Rails). Коллекция инструкций
 - https://rubygems.org/gems/yandex_xml - ruby gem сбора позиций сайта: yandex_xml
 - https://github.com/morsbox/rusrails - вклад в перевод официальной документации Ruby on Rails для сайта rusrails.ru
 - http://rubyblog.ru/ - технический блог про Ruby, Ruby on Rails
