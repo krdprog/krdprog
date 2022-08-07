@@ -20,4 +20,4 @@
 - https://rubygems.org/gems/yandex_xml - ruby gem сбора позиций сайта: yandex_xml
 - https://github.com/morsbox/rusrails - вклад в перевод официальной документации Ruby on Rails для сайта rusrails.ru
 - http://rubyblog.ru/ - технический блог про Ruby, Ruby on Rails
-- http://rubykrd.ru и телеграм-группа https://t.me/rubykrd (~350 чел.) - сообщество руби-программистов
+- http://rubykrd.ru и телеграм-группа https://t.me/rubykrd (>400 чел.) - сообщество руби-программистов
