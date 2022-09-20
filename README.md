@@ -6,7 +6,7 @@
 
 ## Стек технологий
 
-**Для работы:** Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker
+**Для работы:** Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker / Golang / Apache Kafka
 
 ## Контакты
 
