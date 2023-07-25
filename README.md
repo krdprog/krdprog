@@ -1,23 +1,27 @@
-Приветствую!
+## Hi there! 👋 I'm Alexey, a passionate Software Engineer.
 
-## Ссылки на резюме
+Welcome to my GitHub profile! I love coding and constantly seek new challenges to improve my skills. Let's build amazing things together!
 
-- https://career.habr.com/krdprog
-- https://www.linkedin.com/in/krdprog
+### My Tech Stack:
 
-## Стек технологий
+**For work:** Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker / Golang / JavaScript / Vue.js
 
-**Для работы:** Ruby / Ruby on Rails / SQL / PostgeSQL / Redis / Minitest / Git / HTML / CSS / Docker / Golang / JavaScript / Apache Kafka
+I have hands-on experience in building web applications using Ruby on Rails and enjoy exploring the vast possibilities of Golang and Vue.js.
 
-## Контакты
+### Links:
 
-- Email: info@krdprog.ru
-- Telegram: [@krdprog](https://t.me/krdprog)
+- 📄 [My CV on Habr Career](https://career.habr.com/krdprog)
+- 📄 [LinkedIn Profile](https://www.linkedin.com/in/krdprog)
 
-## Вклад в Опенсорс:
+### Contacts:
 
-- https://github.com/krdprog/rubyschool-notes - конспект лекций курса RubySchool.us
-- https://rubydeploy.ru/ - Как деплоить рельсы (Ruby on Rails). Коллекция инструкций
-- https://github.com/morsbox/rusrails - вклад в перевод официальной документации Ruby on Rails для сайта rusrails.ru
-- https://rubygems.org/gems/yandex_xml (oldest) - ruby gem сбора позиций сайта: yandex_xml
-- https://t.me/rubykrd (около 500 чел.) - сообщество руби-программистов
+- 📧 Email: info@krdprog.ru
+- 💬 Telegram: [@krdprog](https://t.me/krdprog)
+
+### Contributions to Open Source:
+
+- 📘 [RubySchool.us Notes](https://github.com/krdprog/rubyschool-notes) - Education notes for Ruby and Ruby on Rails course at RubySchool.us.
+- 🌐 [Ruby on Rails Deployment Guide](https://rubydeploy.ru/) - A comprehensive guide on deploying Rails applications to VPS.
+- 📚 [Contribution to rusrails.ru](https://github.com/morsbox/rusrails) - Contributed to rusrails.ru pages, improving Ruby on Rails documentation for Russian-speaking developers.
+- 💎 [Yandex XML Ruby Gem](https://rubygems.org/gems/yandex_xml) (Oldest) - Ruby gem for search engine optimization with Yandex XML.
+- 💬 [RubyKrd](https://t.me/rubykrd) (~500 users) - Ruby user group on Telegram, fostering discussions and knowledge sharing within the community.
