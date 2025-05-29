@@ -29,7 +29,6 @@ I have hands-on experience in building web applications using Ruby on Rails and 
 
 ### Contacts:
 
-- 📧 Email: info@krdprog.ru
 - 💬 Telegram: [@krdprog](https://t.me/krdprog)
 
 ### Contributions to Open Source:
